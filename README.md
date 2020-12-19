@@ -9,4 +9,4 @@
 
 ## How to run
 
-    java -jar /path/to/mower-simulation.jar /file/to/simulationFile
+    java -jar /path/to/mowersimulation-1.0-SNAPSHOT.jar /file/to/simulationFile

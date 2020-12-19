@@ -1,0 +1,13 @@
+*.log
+*.stackdump
+.project
+.metadata
+.settings
+.classpath
+.attach_pid*
+classes
+target
+*.iml
+.idea/*
+!.idea/saveactions_settings.xml
+/.m2/
